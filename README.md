@@ -1,1 +1,2 @@
-"# JavaScript_miniprojects" 
+"# JavaScript_miniprojects"
+"Making first Javascript form validator at 25 April and happy to code it."
