@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  color: rgb(6, 9, 141);
+}
+.container {
+  /* margin: 40px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+#count {
+  font-size: 50px;
+  padding: 100px;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(81, 172, 142);
+  border: none;
+  border-radius: 10px;
+  color: rgb(5, 16, 173);
+}
+button:hover {
+  background-color: blanchedalmond;
+  color: black;
+}
