@@ -12,3 +12,7 @@
 ### TODO List
 
 `making todo list web`
+
+### COUNTER App
+
+`making counter app with increase, decrease and reset button`
